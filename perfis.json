@@ -1,5 +1,5 @@
 {"perfis":[
-  {"id":"nayuta_oficial","nome":"Nayuta Oficial","usuario":"nayutaoficial","feedUrl":"https://nitter.kavin.rocks/nayutaoficial/rss"},
-  {"id":"voce_sabia_anime","nome":"Você Sabia Anime","usuario":"VoceSabiaAnime","feedUrl":"https://nitter.kavin.rocks/VoceSabiaAnime/rss"},
-  {"id":"intoxi_anime","nome":"IntoxiAnime","usuario":"blogintoxianime","feedUrl":"https://nitter.kavin.rocks/blogintoxianime/rss"}
+  {"id":"nayuta_oficial","nome":"Nayuta Oficial","usuario":"nayutaoficial"},
+  {"id":"voce_sabia_anime","nome":"Você Sabia Anime","usuario":"VoceSabiaAnime"},
+  {"id":"intoxi_anime","nome":"IntoxiAnime","usuario":"blogintoxianime"}
 ]}
