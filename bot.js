@@ -3,7 +3,12 @@ const { Client, GatewayIntentBits, EmbedBuilder } = require('discord.js');
 const Parser = require('rss-parser');
 const fs = require('fs');
 
-const parser = new Parser();
+const parser = new Parser({
+  timeout: 30000,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+  }
+});
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
